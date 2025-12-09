@@ -10,6 +10,7 @@ Data yang digunakan untuk membuat visualisasi ini tidak diolah lagi, karena data
 ## Dashboard
 Untuk akses Dashboard : https://huggingface.co/spaces/zulzaladdera/dashboard-akademik-mahasiswa
 
+## Proses Pengerjaan
 Terlihat di visualisasi ini, rata-rata ipk tiap semester:
 <img width="1881" height="810" alt="image" src="https://github.com/user-attachments/assets/ca58c2a4-6969-4c56-a180-f87f7e3af300" />
 
