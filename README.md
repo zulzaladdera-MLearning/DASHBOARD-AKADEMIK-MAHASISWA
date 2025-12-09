@@ -11,6 +11,10 @@ Data yang digunakan untuk membuat visualisasi ini tidak diolah lagi, karena data
 Untuk akses Dashboard : https://huggingface.co/spaces/zulzaladdera/dashboard-akademik-mahasiswa
 
 ## Proses Pengerjaan
+
+1. Pengguna utama dashboard ini adalah pimpinan universitas dan fakultas seperti rektor dan dekan serta bawah-bawahannya.
+2. Kebutuhan dashboard ini adalah Sebagai pemimpin strategis institusi, Rektor dan Dekan memerlukan dashboard akademik yang memberikan gambaran makro untuk pengambilan keputusan berbasis data. Kebutuhan informasi utama mereka berfokus pada trend dan performa agregat dibanding detail individual. Rektor membutuhkan tinjauan menyeluruh terhadap kesehatan akademik universitas, seperti rata-rata IPK/IPS per fakultas, tingkat retensi dan kelulusan mahasiswa, serta distribusi prestasi. Informasi ini vital untuk evaluasi kinerja, alokasi sumber daya, dan perencanaan strategis. Sementara itu, Dekan memerlukan analisis yang lebih mendalam di level fakultasnya. Mereka perlu mengidentifikasi program studi (prodi) yang unggul atau yang memerlukan intervensi, memantau rasio beban mengajar dosen, dan melihat tren kinerja mahasiswa per angkatan atau per prodi untuk peningkatan kualitas pendidikan di fakultasnya.
+
 Terlihat di visualisasi ini, rata-rata ipk tiap semester:
 <img width="1881" height="810" alt="image" src="https://github.com/user-attachments/assets/ca58c2a4-6969-4c56-a180-f87f7e3af300" />
 
